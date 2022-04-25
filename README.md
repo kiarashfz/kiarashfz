@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiarashfz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="kiarashfz's Github Stats">
 --
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="kiarashfz" /></p>
-    <h3 align="left">Languages and Tools:</h3>
+<!--     <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -43,7 +43,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" /> </a> </p> -->
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=kiarashfz&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="kiarashfz" 
